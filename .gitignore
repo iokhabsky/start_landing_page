@@ -24,7 +24,7 @@ pnpm-debug.log*
 Thumbs.db
 
 # styles source maps
-*.map
+**/*.map
 
 # sass cache
 .sass-cache/
